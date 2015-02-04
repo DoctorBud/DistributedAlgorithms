@@ -1,2 +1,1 @@
-# DistributedAlgorithms
-DistributedAlgorithms in NodeJS
+### Distributed Algorithms in NodeJS
