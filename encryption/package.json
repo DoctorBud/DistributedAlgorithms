@@ -1,0 +1,21 @@
+{
+  "name": "encryption",
+  "version": "1.0.0",
+  "description": "Example of Hybrid and Asymmetric Encryption",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "bootstrap": "^3.3.2",
+    "handlebars": "^2.0.0",
+    "hapi": "^8.1.0",
+    "ip": "^0.3.2",
+    "keypair": "^1.0.0",
+    "node-discover": "0.0.14",
+    "request": "^2.52.0"
+  }
+}
